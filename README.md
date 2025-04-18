@@ -1,6 +1,10 @@
 # MNIST Digit Classification using Convolutional Neural Network
 
+
+
 This repository demonstrates the use of **Convolutional Neural Networks (CNN)** to classify handwritten digits from the **MNIST dataset**.
+
+<img src = "images/extractedFeatures.png" height = 70%>
 
 The repository contains several notebooks that perform different tasks:
 
